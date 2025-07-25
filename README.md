@@ -105,7 +105,7 @@ VGG 文件夹下脚本与 ResNet 逻辑一致，只需将模型和路径替换�
 
 ---
 
-> **作者：Rixi Liang¹, Shuai Zhou¹*, Mingxu Zhu¹, Chi Liu¹, Minfeng Qi¹**  
+> **作者：Rixi Liang¹, Shuai Zhou¹*, Mingxu Zhu¹, Chi Liu¹, Minfeng Qi¹*  
 > *通讯作者：Shuai Zhou  
 > City University of Macau 计算机科学硕士在读  
 > [GitHub主页](https://github.com/hellolrx)
